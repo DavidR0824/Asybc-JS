@@ -1,2 +1,2 @@
-# Asybc-JS
+# Async-JS
 Practica 1
